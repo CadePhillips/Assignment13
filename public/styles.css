@@ -1,0 +1,14 @@
+body {
+    background-color: azure;
+}
+
+#main {
+    text-align: center;
+}
+
+.fix {
+    border: solid;
+    margin: auto;
+    color: black;
+    text-align: center;
+}
